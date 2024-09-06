@@ -64,8 +64,17 @@
       institution: Hochschule Kaiserslautern
       year: 10/2015-10/2017
 
-
-
+- title: Ehrenamt
+  type: time_table
+  contents:
+    - title: 1. Vorsitzender
+      institution: Skiclub Wiebelskirchen e.V.
+      year: 09/2021-
+      description: Als 1. Vorsitzender des Skiclub Wiebelskirchen e.V. leite ich gemeinsam mit dem Vorstand die Vereinsaktivitaeten und gebe strategische Orientierung, insbesondere im Bereich Digitalisierung. Meine Schwerpunkte liegen in der digitalen Weiterentwicklung des Vereins, der Organisation von Events sowie der Foerderung des Wintersports und der Nachwuchsarbeit. So verbinde ich meine sportliche Leidenschaft mit Fuehrungsaufgaben und dem Vorantreiben moderner, digitaler Ansaetze.
+    - title: Sportwart Snowboard
+      institution: Skiclub Wiebelskirchen e.V.
+      year: 04/2013-08/2021
+      description: In meiner Rolle als Sportwart Snowboard war ich verantwortlich fuer die Organisation und Durchfuehrung der Vereinsmeisterschaften sowie fuer die Weiterentwicklung und Foerderung des Snowboard-Angebots im Verein. Zudem gehoerte die Sichtung und Gewinnung neuer Snowboardlehrer zu meinen Aufgaben, um das Angebot kontinuierlich auszubauen. Zu dem begleitete ich Jahrelang diverse Vereinsfarhten und gab Snowboardkurse.
 - title: Open Source Projects
   type: time_table
   contents:
