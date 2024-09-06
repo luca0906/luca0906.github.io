@@ -597,12 +597,12 @@ jsonresume:
   - basics
   - work
   - education
-  - projects
-  - volunteer
-  - awards
-  - certificates
-  - skills
-  - languages
-  - interests
+  #- projects
+  #- volunteer
+  #- awards
+  #- certificates
+  #- skills
+  #- languages
+  #- interests
   - references
   - Sprachen
