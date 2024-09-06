@@ -5,7 +5,7 @@ permalink: /projects/
 description: Eine Auswahl an Projekten aus meinem beruflichen und privaten Umfeld.
 nav: true
 nav_order: 2
-display_categories: [PhD., Privat]
+display_categories: [PhD, Privat]
 horizontal: false
 ---
 
