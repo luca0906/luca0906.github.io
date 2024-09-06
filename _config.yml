@@ -594,15 +594,12 @@ jekyll_get_json:
   - data: resume
     json: assets/json/resume.json # it can also be an url
 jsonresume:
-  - basics
-  - work
-  - education
-  #- projects
-  #- volunteer
-  #- awards
-  #- certificates
-  #- skills
-  #- languages
-  #- interests
-  - references
+  - Generell
+  - Aktuelle Beschäftigung
+  - Bildung
+  - Ehrenamt
+  - Preise
+  - Fähigkeiten
   - Sprachen
+  - Interessen
+
