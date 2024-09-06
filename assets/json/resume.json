@@ -1,38 +1,13 @@
 {
   "Generell": {
     "name": "Luca Luberto",
-    "label": "",
+    "label": "Doktorand Computational Physics RPTU",
     "image": "",
     "email": "",
     "phone": "",
     "url": "",
     "summary": "",
-    "location": {
-      "address": "Gottlieb-Daimler-Straße, Gebäude 74",
-      "postalCode": "67663 ",
-      "city": "Kaiserslautern",
-      "countryCode": "Deutschland",
-      "region": ""
-    },
-    "profiles": [
-      {
-        "network": "",
-        "username": "",
-        "url": ""
-      }
-    ]
   },
-   "Aktuelle Beschäftigung": [
-    {
-      "name": "Lehrstuhl für Computational Physics in Engineering (CPE)",
-      "position": "Wissenschaftlicher Mitarbeiter/Doktorand",
-      "url": "https://mv.rptu.de/fgs/cpe/cpe",
-      "startDate": "04.2019",
-      "endDate": "",
-      "summary": "",
-      "highlights": ["Additive Fertigung", "Simulation des Laser Powder Bed Fusion Prozesses","Lehre"]
-    }
-  ],
   "Ehrenamt": [
     {
       "organization": "Skiclub Wiebelskirchen e.V.",
@@ -58,15 +33,6 @@
       "courses": ["Theory of Relativity"]
     }
   ],
-  "Preise": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
   "Fähigkeiten": [
     {
       "name": "Physics",
@@ -84,7 +50,7 @@
   ],
   "Sprachen": [
     {
-      "language": "detusch",
+      "language": "Deutsch",
       "fluency": "Muttersprache",
       "icon": ""
     },
