@@ -105,6 +105,30 @@ layout: default
                   {% include resume/certificates.liquid %}
                 {% when 'references' %}
                   {% include resume/references.liquid %}
+                {% when 'grundinformationen' %}
+                  {% include resume/basics.liquid %}
+                {% when 'ausbildung' %}
+                  {% include resume/education.liquid %}
+                {% when 'Berufserfahrung' %}
+                  {% include resume/work.liquid %}
+                {% when 'Ehrenamt' %}
+                  {% include resume/volunteer.liquid %}
+                {% when 'Projekte' %}
+                  {% include resume/projects.liquid %}
+                {% when 'Auszeichnungen' %}
+                  {% include resume/awards.liquid %}
+                {% when 'Fähigkeiten' %}
+                  {% include resume/skills.liquid %}
+                {% when 'veröffentlichungen' %}
+                  {% include resume/publications.liquid %}
+                {% when 'Sprachen' %}
+                  {% include resume/languages.liquid %}
+                {% when 'Interessen' %}
+                  {% include resume/interests.liquid %}
+                {% when 'zertifikate' %}
+                  {% include resume/certificates.liquid %}
+                {% when 'referenzen' %}
+                  {% include resume/references.liquid %}
                 {% else %}
 
               {% endcase %}
