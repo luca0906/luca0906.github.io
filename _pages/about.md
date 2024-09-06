@@ -2,7 +2,7 @@
 layout: about
 title: Über mich
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Commputational Engineering - <a>Sports</a>
 
 profile:
   align: right
