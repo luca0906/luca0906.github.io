@@ -105,29 +105,29 @@ layout: default
                   {% include resume/certificates.liquid %}
                 {% when 'references' %}
                   {% include resume/references.liquid %}
-                {% when 'grundinformationen' %}
+                {% when 'Generell' %}
                   {% include resume/basics.liquid %}
-                {% when 'ausbildung' %}
-                  {% include resume/education.liquid %}
-                {% when 'Berufserfahrung' %}
-                  {% include resume/work.liquid %}
+                {% when 'Aktuelle Beschäftigung' %}
+                  {% include resume/basics.liquid %}
                 {% when 'Ehrenamt' %}
-                  {% include resume/volunteer.liquid %}
+                  {% include resume/education.liquid %}
+                {% when 'Bildung' %}
+                  {% include resume/work.liquid %}
                 {% when 'Projekte' %}
                   {% include resume/projects.liquid %}
-                {% when 'Auszeichnungen' %}
+                {% when 'Presise' %}
                   {% include resume/awards.liquid %}
                 {% when 'Fähigkeiten' %}
                   {% include resume/skills.liquid %}
-                {% when 'veröffentlichungen' %}
+                {% when 'Veröffentlichungen' %}
                   {% include resume/publications.liquid %}
                 {% when 'Sprachen' %}
                   {% include resume/languages.liquid %}
                 {% when 'Interessen' %}
                   {% include resume/interests.liquid %}
-                {% when 'zertifikate' %}
+                {% when 'Zertifikate' %}
                   {% include resume/certificates.liquid %}
-                {% when 'referenzen' %}
+                {% when 'Referenzen' %}
                   {% include resume/references.liquid %}
                 {% else %}
 
