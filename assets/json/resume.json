@@ -28,7 +28,7 @@
       "position": "Wissenschaftlicher Mitarbeiter/Doktorand",
       "url": "https://mv.rptu.de/fgs/cpe/cpe",
       "startDate": "04.2019",
-      "endDate": "12.2024",
+      "endDate": "",
       "summary": "",
       "highlights": ["Additive Fertigung", "Simulation des Laser Powder Bed Fusion Prozesses","Lehre"]
     }
@@ -40,19 +40,19 @@
       "position": "1. Vorsitzender",
       "url": "https://s-c-w.com",
       "startDate": "09.2021",
-      "endDate": "heute",
+      "endDate": "",
       "summary": "Als 1. Vorsitzender des Skiclub Wiebelskirchen e.V. leite ich gemeinsam mit dem Vorstand die Vereinsaktivitaeten und gebe strategische Orientierung, insbesondere im Bereich Digitalisierung. Meine Schwerpunkte liegen in der digitalen Weiterentwicklung des Vereins, der Organisation von Events sowie der Foerderung des Wintersports und der Nachwuchsarbeit. So verbinde ich meine sportliche Leidenschaft mit Fuehrungsaufgaben und dem Vorantreiben moderner, digitaler Ansaetze.",
       "highlights": ["Zusammenarbeit", "Digitalisierung des Vereins", "Event Organisation"]
     },
     {
       "organization": "Skiclub Wiebelskirchen e.V.",
       "location": "Neunkirchen",
-      "position": "1. Vorsitzender",
+      "position": "Sportwart Snowboard",
       "url": "https://s-c-w.com",
-      "startDate": "09.2021",
-      "endDate": "heute",
-      "summary": "Als 1. Vorsitzender des Skiclub Wiebelskirchen e.V. leite ich gemeinsam mit dem Vorstand die Vereinsaktivitaeten und gebe strategische Orientierung, insbesondere im Bereich Digitalisierung. Meine Schwerpunkte liegen in der digitalen Weiterentwicklung des Vereins, der Organisation von Events sowie der Foerderung des Wintersports und der Nachwuchsarbeit. So verbinde ich meine sportliche Leidenschaft mit Fuehrungsaufgaben und dem Vorantreiben moderner, digitaler Ansaetze.",
-      "highlights": ["Zusammenarbeit", "Digitalisierung des Vereins", "Event Organisation"]
+      "startDate": "04.2013",
+      "endDate": "09.2021",
+      "summary": "In meiner Rolle als Sportwart Snowboard war ich verantwortlich fuer die Organisation und Durchfuehrung der Vereinsmeisterschaften sowie fuer die Weiterentwicklung und Foerderung des Snowboard-Angebots im Verein. Zudem gehoerte die Sichtung und Gewinnung neuer Snowboardlehrer zu meinen Aufgaben, um das Angebot kontinuierlich auszubauen. Zu dem begleitete ich Jahrelang diverse Vereinsfarhten und gab Snowboardkurse.",
+      "highlights": ["Event Organisation", "Sichtung", "Snowboardkurse"]
     }
   ],
   "education": [
@@ -66,15 +66,6 @@
       "endDate": "1905-01-01",
       "score": "10",
       "courses": ["Theory of Relativity"]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
     }
   ],
   "certificates": [
@@ -121,29 +112,6 @@
       "icon": "fa-solid fa-clipboard-check"
     }
   ],
-  "publications": [
-    {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
-    }
-  ],
   "skills": [
     {
       "name": "Physics",
@@ -161,19 +129,31 @@
   ],
   "languages": [
     {
-      "language": "German",
-      "fluency": "Native speaker",
+      "language": "Deutsch",
+      "fluency": "Muttersprachler",
       "icon": ""
     },
     {
       "language": "English",
-      "fluency": "Fluent",
+      "fluency": "Fluessig",
       "icon": ""
     }
-  ],
+  ]
   "interests": [
     {
-      "name": "Physics",
+      "name": "Sport",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Quantum Mechanics",
+        "Quantum Computing",
+        "Quantum Information",
+        "Quantum Cryptography",
+        "Quantum Communication",
+        "Quantum Teleportation"
+      ]
+    },
+    {
+      "name": "Sport",
       "icon": "fa-solid fa-tag",
       "keywords": [
         "Quantum Mechanics",
