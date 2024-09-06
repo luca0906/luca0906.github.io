@@ -19,9 +19,15 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: Master Studium
+      institution: Technische Univeristät Kaiserslautern
+      year: 04/2017-03/20219
+      description:
+        - Description 1.
+        - Description 2.
+    - title: Bachelor Studium
+      institution: Hochschule Kaiserslautern
+      year: 10/2013-03/20217
       description:
         - Description 1.
         - Description 2.
