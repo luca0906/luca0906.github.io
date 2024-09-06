@@ -1,26 +1,30 @@
-- title: General Information
+- title: Allgemein
   type: map
   contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+    - name: Vollständiger Name
+      value: Luca Luberto
+    - name: Sprachen
+      value: Detusch, Englisch
 
-- title: Education
+- title: Ausbildung
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Dr.-Ing
+      institution: Rheinland-Pfälzische Technische Universität Kaiserslautern-Landau (RPTU)
+      year: 
       description:
-        - Description 1.
+        - Numerische Methoden
         - Description 2.
         - title: Description 3.
           contents:
             - Sub-description 1.
             - Sub-description 2.
+    - title: Federal teaching diploma
+      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
+      year: 1900
+      description:
+        - Description 1.
+        - Description 2.
     - title: Federal teaching diploma
       institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
       year: 1900
