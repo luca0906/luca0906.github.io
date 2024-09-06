@@ -161,6 +161,18 @@
       "icon": ""
     }
   ],
+  "Sprachen": [
+    {
+      "language": "detusch",
+      "fluency": "Muttersprache",
+      "icon": ""
+    },
+    {
+      "language": "Englisch",
+      "fluency": "flüssig",
+      "icon": ""
+    }
+  ],
   "interests": [
     {
       "name": "Physics",
