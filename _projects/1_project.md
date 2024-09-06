@@ -61,7 +61,7 @@ You describe how you toiled, sweated, _bled_ for your project, and then... you r
 </div>
 
 <video width="640" height="360" controls>
-  <source src="/assets/videos/tutorial_al_folio.mp4" type="video/mp4">
+  <source src="/assets/videos/Impeller_T.mov" type="video/mov">
   Dein Browser unterstützt dieses Videoformat nicht.
 </video>
 
