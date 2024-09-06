@@ -1,18 +1,16 @@
 ---
 layout: page
-title: project 1
-description: with background image
+title: LPBF Simulation
+description: Makro-Skala
 img: assets/img/12.jpg
 importance: 1
 category: PhD
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Dieses Projekt ist Teil meiner Dissertation und entstand während meiner Promotion am Lehrstuhl für Computational Physics in Engineering. Im Rahmen des Projekts wird zunächst ein Temperaturfeld in Abhängigkeit von den Prozessparametern berechnet. Darauf aufbauend erfolgt die thermo-mechanische Berechnung, bei der ein J2-Plastizitätsmodell zur Beschreibung der plastischen Verformung des Materials berücksichtigt wird.
 
-This is an example post with videos. It supports local video files.
+Die Implementierung des gesamten Simulationsmodells wurde in der Programmiersprache [Julia](https://julialang.org/) realisiert. Dabei wurde die Finite-Differenzen-Methode verwendet, um die Differentialgleichungen numerisch zu lösen. Durch die GPU-Unterstützung konnte die Berechnungszeit erheblich reduziert und eine effiziente Verarbeitung großer Datenmengen ermöglicht werden, was insbesondere bei der Simulation komplexer Geometrien und Prozessbedingungen von Vorteil ist.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
@@ -23,79 +21,7 @@ This is an example post with videos. It supports local video files.
     </div>
 </div>
 <div class="caption">
-    A simple, elegant caption looks good between video rows, after each row, or doesn't have to be there at all.
+    Temperaturfeld (rechts) und Betrag der plastischen Dehnungen (links) für einen im LPBF-Prozess gefertigten Impeller.
 </div>
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-<video width="640" height="360" controls>
-  <source src="/assets/videos/Impeller_T.mov" type="video/mov">
-  Dein Browser unterstützt dieses Videoformat nicht.
-</video>
-
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
