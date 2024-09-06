@@ -2,7 +2,7 @@
 layout: page
 title: LPBF Simulation
 description: Makro-Skala
-img: assets/img/12.jpg
+img: assets/img/Impeller_Thumbnail.png
 importance: 1
 category: PhD
 related_publications: true
