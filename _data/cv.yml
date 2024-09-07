@@ -1,4 +1,4 @@
-- title: Allgemein
+t- title: Allgemein
   type: map
   contents:
     - name: Vollständiger Name
@@ -11,58 +11,44 @@
 - title: Ausbildung
   type: time_table
   contents:
-    - title: Promotion im Fachbereich Maschinenbau und Verfahrenstechnik am Lehrstuhl Computational Physics in Engineering
+    - title: Wissenschaftlicher Mitarbeiter am Lehrstuhl Computational Physics in Engineering
       institution: Rheinland-Pfälzischen Technische Universität Kaiserslautern-Landau
       year: 04/2019-
       description:
-        - Numerische Methoden
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        - Entwicklung numerischer Methoden und Simulationen für die Prozesssimulation des [Laser Powder Bed Fusion](https://de.wikipedia.org/wiki/Selektives_Laserschmelzen)
+        - Betrueung der Programmierübung für das Fach Konstruktionsanalyse und Modellierung
+        - Betreuung studentischer Arbeiten
     - title: Masterstudium Computational Engineering
       institution: Technische Univeristät Kaiserslautern
       year: 04/2017-03/20219
       description:
-        - Description 1.
-        - Description 2.
+        - Erweiterung Simulationsmethoden und Fokus auf numerische Verfahren
     - title: Bachelorstudium Maschinenbau mit Schwerpunkt Simulationstechnik
       institution: Hochschule Kaiserslautern
       year: 09/2013-03/20217
       description:
-        - Description 1.
-        - Description 2.
+        - Ingenieurwissenschaftliche Grundausbildung
+        - Grundlagen in Simulationsmethoden (FEM, CFD, MKS)
     - title: Ausbildung zum Zerspanungsmechaniker
-      building-ngo: FESTO AG & Co. KG
+      institution: FESTO AG & Co. KG
       year: 09/2010-07/2013
       description:
-        - Description 1.
-        - Description 2.
+        - Schwerpunkt CNC-Drehtechnik
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Bachelorarbeit mit dem Thema Validierung und Entwicklung orthotroper Modelle von Klebstoffschichten
+    - title: Pflichtpraktikum und Bachelorarbeit
       institution: AIRBUS Defence and Space
       year: 10/2016-03/2017
       description:
-        - Description 1.
-        - Description 2.
+        - Bachelorarbeit: Validierung und Entwicklung orthotroper Modelle von Klebstoffschichten
 
     - title: Studentische Hilfskraft bei Prof. Dr.-Ing. Norbert Gilbert im Bereich Strömungstechnik
       institution: Hochschule Kaiserslautern
       year: 10/2015-10/2017
+      description:
+        - Erstellung und Durchführung von Simulationen mit YADE (Diskrete-Elemente-Methode) und OpenFOAM (Computational Fluid Dynamics)
 
 - title: Ehrenamt
   type: time_table
@@ -75,37 +61,32 @@
       institution: Skiclub Wiebelskirchen e.V.
       year: 04/2013-08/2021
       description: In meiner Rolle als Sportwart Snowboard war ich verantwortlich fuer die Organisation und Durchfuehrung der Vereinsmeisterschaften sowie fuer die Weiterentwicklung und Foerderung des Snowboard-Angebots im Verein. Zudem gehoerte die Sichtung und Gewinnung neuer Snowboardlehrer zu meinen Aufgaben, um das Angebot kontinuierlich auszubauen. Zu dem begleitete ich Jahrelang diverse Vereinsfarhten und gab Snowboardkurse.
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
 
-- title: Academic Interests
+- title: Kenntnisse
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Numerische Methoden
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Finite-Differenzen-Methoden zur Approximation von Ableitungen
+        - Lösung von gewöhnlichen und partiellen Differenzialgleichungen:
+          - Anfangswertprobleme (AWP)
+          - Randwertprobleme (RWP)
+        - Lösung von Optimierungsproblemen bei technischer Systeme
+    - title: Programmiersprachen
       items:
-        - Description 1.
-        - Description 2.
+        - Julia: Hochleistungssprache für wissenschaftliches Rechnen
+        - MATLAB: Matrix-basierte Sprache für numerische Berechnungen
+        - Python: Vielseitige Programmiersprache mit zahlreichen wissenschaftlichen Bibliotheken
+        - GPU-Programmierung: Entwicklung und Optimierung von Codes für parallele Berechnungen auf Grafikkarten (CUDA, OpenCL)
+    - title: Visualisierungstools
+      items:
+        - ParaView: Open-Source-Tool für die Visualisierung von großen Datenmengen und Simulationsergebnissen
+        - TikZ: Erstellen von wissenschaftlichen Diagrammen und Grafiken in LaTeX
+        - Inkscape: Vektorbasiertes Grafikprogramm zur Erstellung und Bearbeitung von technischen Illustrationen
+        
 
-- title: Other Interests
+- title: Sonstige Interessen
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Badminton, Lauf- und Radsport, Snowboarden.
