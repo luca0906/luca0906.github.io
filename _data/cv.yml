@@ -7,86 +7,38 @@ t- title: Allgemein
       value: Wissenschaftlicher Mitarbeiter/Doktorand
     - name: Sprachen
       value: Detusch, Englisch
-
 - title: Ausbildung
   type: time_table
   contents:
     - title: Wissenschaftlicher Mitarbeiter am Lehrstuhl Computational Physics in Engineering
       institution: Rheinland-Pfälzischen Technische Universität Kaiserslautern-Landau
       year: 04/2019-
-      description:
-        - Entwicklung numerischer Methoden und Simulationen für die Prozesssimulation des Laser Powder Bed Fusion
-        - Betrueung der Programmierübung für das Fach Konstruktionsanalyse und Modellierung
-        - Betreuung studentischer Arbeiten
     - title: Masterstudium Computational Engineering
       institution: Technische Univeristät Kaiserslautern
       year: 04/2017-03/20219
-      description:
-        - Erweiterung Simulationsmethoden und Fokus auf numerische Verfahren
     - title: Bachelorstudium Maschinenbau mit Schwerpunkt Simulationstechnik
       institution: Hochschule Kaiserslautern
       year: 09/2013-03/20217
-      description:
-        - Ingenieurwissenschaftliche Grundausbildung
-        - Grundlagen in Simulationsmethoden (FEM, CFD, MKS)
     - title: Ausbildung zum Zerspanungsmechaniker
       institution: FESTO AG & Co. KG
       year: 09/2010-07/2013
-      description:
-        - Schwerpunkt CNC-Drehtechnik
-
-- title: Experience
+- title: Berufserfahrung
   type: time_table
   contents:
     - title: Pflichtpraktikum und Bachelorarbeit
       institution: AIRBUS Defence and Space
       year: 10/2016-03/2017
-      description:
-        - Bachelorarbeit: Validierung und Entwicklung orthotroper Modelle von Klebstoffschichten
-
     - title: Studentische Hilfskraft bei Prof. Dr.-Ing. Norbert Gilbert im Bereich Strömungstechnik
       institution: Hochschule Kaiserslautern
       year: 10/2015-10/2017
-      description:
-        - Erstellung und Durchführung von Simulationen mit YADE (Diskrete-Elemente-Methode) und OpenFOAM (Computational Fluid Dynamics)
-
 - title: Ehrenamt
   type: time_table
   contents:
     - title: 1. Vorsitzender
       institution: Skiclub Wiebelskirchen e.V.
       year: 09/2021-
-      description: Als 1. Vorsitzender des Skiclub Wiebelskirchen e.V. leite ich gemeinsam mit dem Vorstand die Vereinsaktivitaeten und gebe strategische Orientierung, insbesondere im Bereich Digitalisierung. Meine Schwerpunkte liegen in der digitalen Weiterentwicklung des Vereins, der Organisation von Events sowie der Foerderung des Wintersports und der Nachwuchsarbeit. So verbinde ich meine sportliche Leidenschaft mit Fuehrungsaufgaben und dem Vorantreiben moderner, digitaler Ansaetze.
+      #description: Als 1. Vorsitzender des Skiclub Wiebelskirchen e.V. leite ich gemeinsam mit dem Vorstand die Vereinsaktivitaeten und gebe strategische Orientierung, insbesondere im Bereich Digitalisierung. Meine Schwerpunkte liegen in der digitalen Weiterentwicklung des Vereins, der Organisation von Events sowie der Foerderung des Wintersports und der Nachwuchsarbeit. So verbinde ich meine sportliche Leidenschaft mit Fuehrungsaufgaben und dem Vorantreiben moderner, digitaler Ansaetze.
     - title: Sportwart Snowboard
       institution: Skiclub Wiebelskirchen e.V.
       year: 04/2013-08/2021
-      description: In meiner Rolle als Sportwart Snowboard war ich verantwortlich fuer die Organisation und Durchfuehrung der Vereinsmeisterschaften sowie fuer die Weiterentwicklung und Foerderung des Snowboard-Angebots im Verein. Zudem gehoerte die Sichtung und Gewinnung neuer Snowboardlehrer zu meinen Aufgaben, um das Angebot kontinuierlich auszubauen. Zu dem begleitete ich Jahrelang diverse Vereinsfarhten und gab Snowboardkurse.
-
-
-- title: Kenntnisse
-  type: nested_list
-  contents:
-    - title: Numerische Methoden
-      items:
-        - Finite-Differenzen-Methoden zur Approximation von Ableitungen
-        - Lösung von gewöhnlichen und partiellen Differenzialgleichungen:
-          - Anfangswertprobleme (AWP)
-          - Randwertprobleme (RWP)
-        - Lösung von Optimierungsproblemen bei technischer Systeme
-    - title: Programmiersprachen
-      items:
-        - Julia: Hochleistungssprache für wissenschaftliches Rechnen
-        - MATLAB: Matrix-basierte Sprache für numerische Berechnungen
-        - Python: Vielseitige Programmiersprache mit zahlreichen wissenschaftlichen Bibliotheken
-        - GPU-Programmierung: Entwicklung und Optimierung von Codes für parallele Berechnungen auf Grafikkarten (CUDA, OpenCL)
-    - title: Visualisierungstools
-      items:
-        - ParaView: Open-Source-Tool für die Visualisierung von großen Datenmengen und Simulationsergebnissen
-        - TikZ: Erstellen von wissenschaftlichen Diagrammen und Grafiken in LaTeX
-        - Inkscape: Vektorbasiertes Grafikprogramm zur Erstellung und Bearbeitung von technischen Illustrationen
-        
-
-- title: Sonstige Interessen
-  type: list
-  contents:
-    - <u>Hobbies:</u> Badminton, Lauf- und Radsport, Snowboarden.
+      #description: In meiner Rolle als Sportwart Snowboard war ich verantwortlich fuer die Organisation und Durchfuehrung der Vereinsmeisterschaften sowie fuer die Weiterentwicklung und Foerderung des Snowboard-Angebots im Verein. Zudem gehoerte die Sichtung und Gewinnung neuer Snowboardlehrer zu meinen Aufgaben, um das Angebot kontinuierlich auszubauen. Zu dem begleitete ich Jahrelang diverse Vereinsfarhten und gab Snowboardkurse.
